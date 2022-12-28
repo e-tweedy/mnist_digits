@@ -10,3 +10,5 @@ mnist_model_weights.pth - the PyTorch model weights saved from the notebook run
 app.py - a Python file which implements a Gradio sketchpad app to let us experiment with this trained model
 
 This app is implemented and hosted here: https://huggingface.co/spaces/etweedy/digits
+
+We posted a version of this notebook on Kaggle: https://www.kaggle.com/code/eamonntweedy/training-a-cnn-model-on-mnist-digits
