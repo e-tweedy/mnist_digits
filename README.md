@@ -1,7 +1,7 @@
 # mnist_digits
 A CNN model trained on the MNIST handwritten digit database, which can recognize handwritten digits (with Gradio app implementation)
 
-mnist_cnn.ipynb - a Python Jupyter notebook in which we use the PyTorch library to train a convolutive neural network (CNN) on the MNIST hand-drawn digit database (http://yann.lecun.com/exdb/mnist%7D).
+mnist_cnn.ipynb - a Python Jupyter notebook in which we use the PyTorch library to train a convolutive neural network (CNN) on the MNIST hand-drawn digit database (http://yann.lecun.com/exdb/mnist/).
 
 mnist_model.pth - the PyTorch model saved from the notebook run
 
